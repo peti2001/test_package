@@ -1,0 +1,19 @@
+{
+  "name": "test_package",
+  "version": "1.0.0",
+  "description": "This is my first package. I use it to test versioning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peti2001/test_package.git"
+  },
+  "author": "Peter Karakas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peti2001/test_package/issues"
+  },
+  "homepage": "https://github.com/peti2001/test_package#readme"
+}
